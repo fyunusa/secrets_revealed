@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const funny_situations = document.getElementById('funny-situations-btn');
     const girlfriend = document.getElementById('girlfriend-btn');
     const days_of_the_week = document.getElementById('days-of-the-Week-btn');
-    const procastination = document.getElementById('procastination-btn');
+    const procastination = document.getElementById('procrastination-btn');
     const cooking = document.getElementById('cooking-btn');
     const technology = document.getElementById('technology-btn');
     
