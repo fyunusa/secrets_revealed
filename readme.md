@@ -39,15 +39,9 @@ It seems like the Markdown syntax might not be rendering correctly on GitHub. Le
 
 ## Credits
 
-- Jokes sourced from various online repositories.
+- Me.
 - Bootstrap for UI components and styling.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Instructions:
-
-1. **Screenshot**: Replace `screenshot.png` with the actual filename or URL of your project's screenshot. Ensure the screenshot provides a visual preview of your web application.
-   
-2. **Link to the Live Demo**: Replace `https://secretrevealed.netlify.app/` with the actual URL of your deployed application.
+This project is licensed under the MIT License.
