@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     randomBtn.addEventListener('click', () => loadJokes('random'));
-    engineersBtn.addEventListener('click', () => loadJokes('engineers'));
+    engineersBtn.addEventListener('click', () => loadJokes('engineer'));
     lawBtn.addEventListener('click', () => loadJokes('law'));
     healthBtn.addEventListener('click', () => loadJokes('health'));
 
