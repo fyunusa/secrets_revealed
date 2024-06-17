@@ -30,6 +30,18 @@ body{
     font-weight: 700;
 }
 
+.btn-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+
 .container{
     transform-style: preserve-3d;
 }

@@ -4,6 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const engineersBtn = document.getElementById('engineers-btn');
     const lawBtn = document.getElementById('law-btn');
     const healthBtn = document.getElementById('health-btn');
+    const funny_situations = document.getElementById('funny-situations-btn');
+    const girlfriend = document.getElementById('Girlfriend-btn');
+    const days_of_the_week = document.getElementById('Days-of-the-Week-btn');
+    const procastination = document.getElementById('Procastination-btn');
+    const cooking = document.getElementById('Cooking-btn');
+    const technology = document.getElementById('Technology-btn');
+    
     
     const loadJokes = (category) => {
         fetch('jokes.json')
@@ -55,6 +62,13 @@ document.addEventListener('DOMContentLoaded', () => {
     engineersBtn.addEventListener('click', () => loadJokes('engineer'));
     lawBtn.addEventListener('click', () => loadJokes('law'));
     healthBtn.addEventListener('click', () => loadJokes('health'));
+    funny_situations.addEventListener('click', () => loadJokes('funny_situations'));
+    girlfriend.addEventListener('click', () => loadJokes('Girlfriend'));
+    days_of_the_week.addEventListener('click', () => loadJokes('Days_of_the_Week'));
+    procastination.addEventListener('click', () => loadJokes('Procastination'));
+    cooking.addEventListener('click', () => loadJokes('Cooking'));
+    technology.addEventListener('click', () => loadJokes('Technology'));
+    
 
     // Load random jokes by default
     loadJokes('random');
