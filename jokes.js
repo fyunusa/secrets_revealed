@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     funny_situations.addEventListener('click', () => loadJokes('funny_situations'));
     girlfriend.addEventListener('click', () => loadJokes('Girlfriend'));
     days_of_the_week.addEventListener('click', () => loadJokes('Days_of_the_Week'));
-    procastination.addEventListener('click', () => loadJokes('Procastination'));
+    procastination.addEventListener('click', () => loadJokes('Procrastination'));
     cooking.addEventListener('click', () => loadJokes('Cooking'));
     technology.addEventListener('click', () => loadJokes('Technology'));
     
