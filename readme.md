@@ -1,6 +1,5 @@
 It seems like the Markdown syntax might not be rendering correctly on GitHub. Let's ensure proper formatting and fix any issues that might be causing the problem. Here's the revised `README.md` file with correct Markdown formatting:
 
-```markdown
 # Secrets Revealed
 
 ![Screenshot](screenshot.png)
@@ -46,18 +45,9 @@ It seems like the Markdown syntax might not be rendering correctly on GitHub. Le
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
 ### Instructions:
 
 1. **Screenshot**: Replace `screenshot.png` with the actual filename or URL of your project's screenshot. Ensure the screenshot provides a visual preview of your web application.
    
 2. **Link to the Live Demo**: Replace `https://secretrevealed.netlify.app/` with the actual URL of your deployed application.
-
-### Additional Tips:
-
-- Make sure there are no extra characters or spaces in the Markdown file that might cause formatting issues.
-- Save the file with the extension `.md` (e.g., `README.md`) to ensure GitHub recognizes it as a Markdown file.
-- Use proper Markdown syntax for headings, lists, and links to maintain readability and structure.
-
-By following these steps, your `README.md` file should display correctly on GitHub, presenting the project details clearly and effectively.
