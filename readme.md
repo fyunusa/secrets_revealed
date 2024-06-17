@@ -2,7 +2,7 @@ It seems like the Markdown syntax might not be rendering correctly on GitHub. Le
 
 # Secrets Revealed
 
-![Screenshot](screenshot.png)
+![Screenshot](demo.jpeg)
 
 "Secrets Revealed" is a web application that showcases humorous and witty jokes categorized into various themes. Users can choose from different joke categories such as engineers, law, health, funny situations, girlfriend jokes, days of the week, procrastination, cooking, and technology.
 
